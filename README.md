@@ -1,0 +1,2 @@
+NB! The project above was created for a term project in high school which has the main functionality of a charity organizing system. It keeps track of donations and bake sale details but could still be improved in many ways.
+Find the attached "Programmers Details" document explaining the Interfaces and Features as well as the code in the program. (The project itself cannot be uploaded due to file size constraints)
